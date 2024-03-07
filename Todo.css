@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:grey;
+    margin-top: 7%;
+}
+
+#input{
+    background-color:none;
+    border: none;
+    height: 30px;
+    width: 300px;
+}
+.head1{
+    border: 2px solid black;
+    height: 500px;
+}
+#add{
+    display: flex;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-left: 33%;
+    height: 30px;
+    width: 100px;
+    justify-content: center;
+}
